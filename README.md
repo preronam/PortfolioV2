@@ -1,4 +1,4 @@
-# Portfolio with Node and Express
+# Portfolio with Node, Express, and Handlebars
 
 # About 
 This is a portfolio project which was created using Node,Express, and Handlebars. The portfolio contains an overview of my education, work experience, and skill set. Potential employers also have the ability to connect with me via social media.
