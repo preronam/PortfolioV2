@@ -12,3 +12,4 @@ This is a portfolio project which was created using Node,Express, and Handlebars
 
 # Deployed Application link :https://express-portfol.herokuapp.com/
 
+![Alt text](public/images/demo.jpg)
